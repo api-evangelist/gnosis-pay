@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Gnosis Pay is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://gnosispay.com/
+Gnosis Pay is a decentralized payments network that removes the barriers between traditional finance and decentralized finance. It enables stablecoin‑backed card programs, seamless on‑ramp and off‑ramp solutions, and provides APIs for merchants and developers to integrate crypto payments, manage wallets, and comply with regulatory standards across multiple jurisdictions.
+
+**Areas:** Company · Payments · Crypto · Stablecoin · API
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://gnosispay.com/)
+- [Documentation](https://docs.gnosispay.com/)
+- [Getting started](https://docs.gnosispay.com/guides/onboarding)
+- [API reference](https://docs.gnosispay.com/api-reference/auth/get-siwe-message)
+- [Support](https://help.gnosispay.com/)
+- [Changelog](https://docs.gnosispay.com/changelog)
+- [Blog](https://gnosispay.com/blog)
+- [GitHub](https://github.com/gnosispay)
+- [Status](https://status.gnosispay.com/)
+
+**APIs profiled:** 12
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/gnosis-pay/](https://apis.io/providers/gnosis-pay/).
